@@ -1,0 +1,10 @@
+dist/**
+
+# 忽略 html 目录
+html/**
+
+# 忽略 public 目录
+public/**
+
+# 忽略 node_modules 目录
+node_modules/**

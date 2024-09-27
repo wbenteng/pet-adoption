@@ -1,0 +1,5 @@
+/* 重写nprogress进度条样式 */
+
+#nprogress .bar {
+  background-image: linear-gradient(to right, red, cyan, yellow, pink);
+}
